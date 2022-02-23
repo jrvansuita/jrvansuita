@@ -32,9 +32,9 @@ const myDevTimeline = {
     2022: {
         age: 30,
         achivments: [
-            "Starts learing about NFT",
-            "Starts and NFT P2E Game (Web-Nodejs) 🎮",
-            "Shopping List app Hits +270,000 downloads",
+            "Starts learning about NFT",
+            "Starts a NFT P2E Game (Web-Nodejs) 🎮",
+            "Shopping List app hits +270,000 downloads",
         ]
     },
 
@@ -49,7 +49,7 @@ const myDevTimeline = {
     2020: {
         age: 29,
         achivments: [
-            "Became close about Criptocurrencies & Blockchain",
+            "Became close about Cryptocurrencies and Blockchain",
             "Left tech area and stayed ahead of the Commercial and Marketing on E-commerce Company"
         ]
     },
@@ -73,7 +73,7 @@ const myDevTimeline = {
             "Bought 50% of a Child's Clothes E-commerce Company",
             "Became Tech Leader of E-commerce",
             "Learned Nodejs & React Frameworks",
-            "Starts Building a Full backend solution of the E-commerce (Hawk)",
+            "Starts Building a Full backend solution to the E-commerce Company (Hawk)",
             "First Chrome Extension (RabbitArchiver)"
         ]
     },
@@ -81,12 +81,12 @@ const myDevTimeline = {
     2017: {
         age: 25,
         achivments: [
-            "Shopping List app Hits +100,000 downloads",
+            "Shopping List app hits +100,000 downloads",
             "Moved to Pitman, New Jersey USA 🇺🇸",
             "Launch of MaterialAbout Android Library (+1.5k Stars)",
             "Launch of GaussianBlur Android Library (+450 Stars)",
             "Launch of PickImage Android Library (+430 Stars)",
-            "Launch of several small Android Libraries to help grown Android comunity",
+            "Launch of several small Android Libraries to help grown Android Community",
         ]
     },
 
