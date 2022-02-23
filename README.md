@@ -2,9 +2,21 @@
 
 #### I'm a Full-Stack Developer working in Santa Catarina, Brasil.
 
-This is my developer timeline as javascript code.
+##### Short
 
-```javascript
+- 👨‍💻 I'm currently working in a P2E Game
+- ⚙️ I use daily: `.js`, `.ejs`, `.html`, `.css`, `.svg`, `.psd`, `.xml`, `.json`
+- 📖 Learning all about **Crypto**
+- 📫 Twitter: [twitter.com/JuniorVansuita](https://twitter.com/JuniorVansuita)
+- 📸 Insta : [instagram.com/jnrvans/](https://www.instagram.com/jnrvans)
+- ⚡️ Plus fact: I'm a huge adept of Libertarianism Philosophy
+
+ 
+##### Long
+ 
+This is my developer timeline as javascript code. Enjoy 😎
+
+```JavaScript
 const myDevTimeline = {
 
     2022: {
