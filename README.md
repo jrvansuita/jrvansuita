@@ -1,4 +1,11 @@
-### Hi there 👋
+
+<span align="right" width="50" height="50"> 
+ 
+ ![](https://komarev.com/ghpvc/?username=jrvansuita&color=green&style=flat&label=Profile+Views) 
+
+</span>
+
+### Hi there 👋  
 
 #### I'm a Full-Stack Developer working in Santa Catarina, Brasil.
 
@@ -12,9 +19,12 @@
 - ⚡️ Plus fact: I'm a huge adept of Libertarianism Philosophy
 
  
+
 ##### Long
  
 This is my developer timeline as javascript code. Enjoy 😎
+
+
 
 ```JavaScript
 const myDevTimeline = {
