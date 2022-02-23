@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### I'm a Full-Stack Developer working in Santa Catarina, Brasil.
+
 This is my developer timeline as javascript code.
 
 ```javascript
