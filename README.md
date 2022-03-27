@@ -12,7 +12,7 @@
 ##### Short
 
 - 👨‍💻 I'm currently working in a P2E Game
-- ⚙️ I use daily: `.js`, `.ejs`, `.html`, `.css`, `.svg`, `.psd`, `.xml`, `.json`
+- ⚙️ I use daily: `.js`, `.ts`, `.java`, `.ejs`, `.html`, `.css`, `.svg`, `.psd`, `.xml`, `.json`
 - 📖 Learning all about **Crypto**
 - 📫 Twitter: [twitter.com/JuniorVansuita](https://twitter.com/JuniorVansuita)
 - 📸 Insta : [instagram.com/jnrvans](https://www.instagram.com/jnrvans)
