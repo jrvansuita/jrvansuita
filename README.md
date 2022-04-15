@@ -1,26 +1,30 @@
-<div align="right">
- <a href="#" target="_blank"> 
-   <img src="https://komarev.com/ghpvc/?username=jrvansuita&color=green&style=flat&label=Profile+Views">
- </a>
- <a href="https://www.instagram.com/jnrvans" target="_blank">
-  <img width="35" height="35" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/instagram.png?raw=true" alt="Instagram" witdh="44" height="44" hspace="10">
-</a>
-<a href="https://twitter.com/JuniorVansuita" target="_blank">
-  <img width="35" height="35" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/twitter.png?raw=true" alt="Github" witdh="44" height="44" hspace="10">
-</a>
-<a href="https://play.google.com/store/apps/dev?id=8002078663318221363" target="_blank">
-  <img width="35" height="35" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/google-play.png?raw=true" alt="Google Play Store" witdh="44" height="44" hspace="10">
-</a>
-<a href="mailto:vansuita.jr@gmail.com" target="_blank" >
-  <img width="35" height="35" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/gmail.png?raw=true" alt="E-mail" witdh="44" height="44" hspace="10">
-</a>
-</div>
+<span align="right" width="50" height="50"> 
+ 
+ ![](https://komarev.com/ghpvc/?username=jrvansuita&color=green&style=flat&label=Profile+Views) 
+
+</span>
+
 
 
 
 ### Hi there 👋
 
 #### I'm a Full-Stack Developer working in Santa Catarina, Brasil.
+
+<a href="https://www.instagram.com/jnrvans" target="_blank">
+  <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/instagram.png?raw=true" alt="Instagram" witdh="44" height="44" hspace="10">
+</a>
+<a href="https://twitter.com/JuniorVansuita" target="_blank">
+  <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/twitter.png?raw=true" alt="Github" witdh="44" height="44" hspace="10">
+</a>
+<a href="https://play.google.com/store/apps/dev?id=8002078663318221363" target="_blank">
+  <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/google-play.png?raw=true" alt="Google Play Store" witdh="44" height="44" hspace="10">
+</a>
+<a href="mailto:vansuita.jr@gmail.com" target="_blank" >
+  <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/gmail.png?raw=true" alt="E-mail" witdh="44" height="44" hspace="10">
+</a>
+
+#
 
 ##### Short
 
