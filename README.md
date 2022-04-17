@@ -9,7 +9,8 @@
 
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Santa Catarina, Brasil.
+#### I'm a Full-Stack Developer from Santa Catarina, Brazil. 
+###### Hit my repositories and you will find some cool **Android** Apps/Libraries and a bunch of **NodeJs** Projects.
 
 <a href="https://www.instagram.com/jnrvans" target="_blank">
   <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/instagram.png?raw=true" alt="Instagram" witdh="44" height="44" hspace="10">
@@ -26,6 +27,9 @@
 
 #
 
+
+About me
+
 ##### Short
 
 - 👨‍💻 I'm currently working in a P2E NFT Game;
@@ -38,8 +42,7 @@
 
 ##### Long
  
-This is my developer timeline as javascript code. Enjoy 😎
-
+###### This is my timeline as developer written in javascript code. Enjoy it 😎
 
 
 ```JavaScript
