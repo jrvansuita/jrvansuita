@@ -28,9 +28,10 @@
 
 ##### Short
 
-- 👨‍💻 I'm currently working in a P2E Game
-- ⚙️ I use daily: `.js`, `.ts`, `.java`, `.ejs`, `.html`, `.css`, `.svg`, `.psd`, `.xml`, `.json`
-- 📖 Learning all about **Crypto**
+- 👨‍💻 I'm currently working in a P2E NFT Game;
+- ⚙️ I use daily: `.js`, `.ts`, `.java`, `.ejs`, `.html`, `.css`, `.svg`, `.psd`, `.xml`, `.json`;
+- 📖 Learning all I can about **crypto** universe;
+- 💼 In the past, Worked with: [Pascal(Delphi)](wikipedia.org/wiki/Pascal_(programming_language)), [.NET](https://en.wikipedia.org/wiki/ASP.NET), [JSP](https://en.wikipedia.org/wiki/Jakarta_Server_Pages) and [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 - 📫 Twitter: [twitter.com/JuniorVansuita](https://twitter.com/JuniorVansuita)
 - 📸 Insta : [instagram.com/jnrvans](https://www.instagram.com/jnrvans)
 - ⚡️ Plus fact: I'm a huge adept of Libertarianism Philosophy
