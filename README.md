@@ -24,6 +24,12 @@
 <a href="mailto:vansuita.jr@gmail.com" target="_blank" >
   <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/gmail.png?raw=true" alt="E-mail" witdh="44" height="44" hspace="10">
 </a>
+<a href="https://stackoverflow.com/users/3732187/vansuita-jr" target="_blank" >
+  <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/stack-overflow.png?raw=true" alt="Stack Overflow" witdh="44" height="44" hspace="10">
+</a>
+<a href="https://www.linkedin.com/in/jrvans/" target="_blank" >
+  <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/linkedin.png?raw=true" alt="Linkedin" witdh="44" height="44" hspace="10">
+</a>
 
 #
 
