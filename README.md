@@ -1,6 +1,6 @@
 <span align="right" width="50" height="50"> 
  
- ![](https://komarev.com/ghpvc/?username=jrvansuita&color=green&style=flat&label=Profile+Views) 
+ ![](https://komarev.com/ghpvc/?username=jrvansuita&color=lightgrey&style=flat&label=Profile+Views) 
 
 </span>
 
