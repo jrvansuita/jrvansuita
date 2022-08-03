@@ -9,7 +9,7 @@
 
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer from Santa Catarina, Brazil. 
+#### I'm a Android Developer from Santa Catarina, Brazil. 
 ###### Hit my repositories and you will find some cool **Android** Apps/Libraries and a bunch of **NodeJs** Projects.
 
 <a href="https://www.instagram.com/jnrvans" target="_blank">
