@@ -54,9 +54,10 @@ About me
 const myDevTimeline = {
 
     2022: {
-        age: 30,
+        age: 31,
         achivments: [
-            "Starts learning about NFT",
+            "Deep dive into AndroidX libraries"
+            "Starts learning about NFT world",
             "Starts a NFT P2E Game (Web-Nodejs) 🎮",
             "Shopping List app hits +270,000 downloads",
         ]
