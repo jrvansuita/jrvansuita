@@ -38,7 +38,7 @@ About me
 
 ##### Short
 
-- ⚙️ I use daily: `.kt`, `.java`, `.js`, `.ts`, `.ejs`, `.html`, `.css`, `.svg`, `.psd`, `.xml`, `.json`;
+- ⚙️ I normally use : `.kt`, `.java`, `.js`, `.ts`, `.ejs`, `.html`, `.css`, `.psd`, `.xml`, `.json`;
 - 📖 Learning all I can about **crypto** universe;
 - 💼 In the past, Worked with: [Pascal(Delphi)](wikipedia.org/wiki/Pascal_(programming_language)), [.NET](https://en.wikipedia.org/wiki/ASP.NET), [JSP](https://en.wikipedia.org/wiki/Jakarta_Server_Pages) and [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 - ⚡️ Plus fact: I'm a huge fan of sushi
