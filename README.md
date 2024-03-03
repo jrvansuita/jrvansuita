@@ -178,7 +178,6 @@ const myDevTimeline = {
         age: 19,
         achivments: [
             "Changed College Course (Information Systems at Uniasselvi)",
-            "New Client Support Job",
             "Moved to Software Deployment Consultant",
             "First DB procedures and functions (Oracle) ⚙️",
         ]
@@ -187,8 +186,8 @@ const myDevTimeline = {
     2010: {
         age: 18,
         achivments: [
-            "Starts College (Information Sciences at FURB)",
-            "First IT Job (Client Support) ✅",
+            "Starts College (Computer Cience at FURB)",
+            "First IT Job (Customer Support) ✅",
             "First database contact (Microsoft Access)",
             "SQL Course (SQL Server)",
             "First SQL Queries",
@@ -216,7 +215,7 @@ const myDevTimeline = {
         age: 12,
         achivments: [
             "🥇 Got my first PC",
-            "🎮 Begin of gaming addition (Carmageddon & Diablo II)",
+            "🎮 Begining of gaming addition (Carmageddon & Diablo II)",
         ]
     },
 
