@@ -216,6 +216,8 @@ const myDevTimeline = {
     },
 }
 ```
+-------------------------------
+
 
 Senior Android Engineer | Mentor | Tech Interview Coach | Founder at Neat
 
