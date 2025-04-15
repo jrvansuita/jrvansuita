@@ -4,237 +4,223 @@
 
 </span>
 
-
-
-
 ### Hi there 👋
 
-#### I'm a Android Developer from Santa Catarina, Brazil. 
-###### Hit my repositories and you will find some cool **Android** Apps/Libraries and a bunch of **NodeJs** Projects.
+#### I'm an Android Developer from Santa Catarina, Brazil. 
+###### Hit my repositories and you'll find some cool **Android** Apps/Libraries and a bunch of **Node.js** Projects.
 
 <a href="https://www.instagram.com/jnrvans" target="_blank">
-  <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/instagram.png?raw=true" alt="Instagram" witdh="44" height="44" hspace="10">
+  <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/instagram.png?raw=true" alt="Instagram" width="44" height="44" hspace="10">
 </a>
 <a href="https://twitter.com/JuniorVansuita" target="_blank">
-  <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/twitter.png?raw=true" alt="Github" witdh="44" height="44" hspace="10">
+  <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/twitter.png?raw=true" alt="Twitter" width="44" height="44" hspace="10">
 </a>
 <a href="https://play.google.com/store/apps/dev?id=8002078663318221363" target="_blank">
-  <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/google-play.png?raw=true" alt="Google Play Store" witdh="44" height="44" hspace="10">
+  <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/google-play.png?raw=true" alt="Google Play Store" width="44" height="44" hspace="10">
 </a>
 <a href="mailto:vansuita.jr@gmail.com" target="_blank" >
-  <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/gmail.png?raw=true" alt="E-mail" witdh="44" height="44" hspace="10">
+  <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/gmail.png?raw=true" alt="E-mail" width="44" height="44" hspace="10">
 </a>
 <a href="https://stackoverflow.com/users/3732187/vansuita-jr" target="_blank" >
-  <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/stack-overflow.png?raw=true" alt="Stack Overflow" witdh="44" height="44" hspace="10">
+  <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/stack-overflow.png?raw=true" alt="Stack Overflow" width="44" height="44" hspace="10">
 </a>
 <a href="https://www.linkedin.com/in/jrvans/" target="_blank" >
-  <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/linkedin.png?raw=true" alt="Linkedin" witdh="44" height="44" hspace="10">
+  <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/linkedin.png?raw=true" alt="LinkedIn" width="44" height="44" hspace="10">
 </a>
 
 #
 
-
-About me
+### About me
 
 ##### Short
 
-- ⚙️ I normally use : `.kt`, `.java`, `.js`, `.ts`, `.ejs`, `.html`, `.css`, `.psd`, `.xml`, `.json`;
-- 📖 Learning all I can about **crypto** universe;
-- 💼 In the past, Worked with: [Pascal(Delphi)](wikipedia.org/wiki/Pascal_(programming_language)), [.NET](https://en.wikipedia.org/wiki/ASP.NET), [JSP](https://en.wikipedia.org/wiki/Jakarta_Server_Pages) and [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
-- ⚡️ Plus fact: I'm a huge fan of sushi
-
- 
+- ⚙️ I usually work with: `.kt`, `.java`, `.js`, `.ts`, `.ejs`, `.html`, `.css`, `.psd`, `.xml`, `.json`
+- 📖 Learning all I can about the **crypto** universe
+- 💼 In the past, worked with: [Pascal (Delphi)](https://en.wikipedia.org/wiki/Pascal_(programming_language)), [.NET](https://en.wikipedia.org/wiki/ASP.NET), [JSP](https://en.wikipedia.org/wiki/Jakarta_Server_Pages), and [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+- ⚡️ Fun fact: I'm a huge fan of sushi
 
 ##### Long
- 
-###### This is my timeline as developer written in javascript code. Enjoy it 😎
 
+###### This is my timeline as a developer, written in JavaScript code. Enjoy it 😎
 
-```JavaScript
+```javascript
 const myDevTimeline = {
-
+  2025: {
+        age: 34,
+        achievements: [
+            "Lead Android Mentor for advanced developer training programs",
+            "Scaling Neat into a remote-first Android consultancy company",
+            "Developing innovative tools and open-source libraries to support Android learners",
+            "Mentoring globally diverse students in Android and technical interview prep for the US job market",
+        ]
+    },
+    2024: {
+        achievements: [
+            "Promoted to Android Mentor — empowering dozens of developers to break into the industry",
+            "Became a mentor in selective Android and Tech Interview Preparation (TIP) programs",
+            "Revived Neat as a solo-driven company focused on Android excellence",
+            "Delivered multiple workshops and talks about Jetpack Compose, DataStore, and modern Android architecture",
+        ]
+    },
+    2023: {
+        achievements: [
+            "Started career as an Android Instructor — teaching Android development to aspiring professionals",
+            "Designed and refined hands-on curriculum focused on real-world app development",
+            "Contributed to open-source projects and community-driven initiatives",
+        ]
+    },
     2022: {
         age: 31,
-        achivments: [
-            "Deep dive into AndroidX libraries"
-            "Starts learning about NFT world",
-            "Starts a NFT P2E Game (Web-Nodejs) 🎮",
+        achievements: [
+            "Deep dive into AndroidX libraries",
+            "Started learning about the NFT world",
+            "Started an NFT P2E Game (Web-Node.js) 🎮",
             "Shopping List app hits +270,000 downloads",
         ]
     },
-
     2021: {
         age: 30,
-        achivments: [
-            "Closes E-commerce Company",
-            "First Bitcoin and Ethereum Mining operations ⛏",
+        achievements: [
+            "Closed E-commerce Company",
+            "First Bitcoin and Ethereum mining operations ⛏",
         ]
     },
-
     2020: {
         age: 29,
-        achivments: [
-            "Became close about Cryptocurrencies and Blockchain",
-            "Left tech area and stayed ahead of the Commercial and Marketing on E-commerce Company"
+        achievements: [
+            "Got closer to Cryptocurrencies and Blockchain",
+            "Left tech and led Commercial & Marketing at the E-commerce Company"
         ]
     },
-
-
     2019: {
-        age: 27,
-        achivments: [
-            "Hawk became a Full Solution for backend operations at the E-commerce",
-            "First Hawk app mobile version",
-            "Learns Magento and Magento API",
+        achievements: [
+            "Hawk became a full solution for backend operations at the E-commerce",
+            "First Hawk mobile app version",
+            "Learned Magento and Magento API",
         ]
     },
-
-
     2018: {
-        age: 26,
-        achivments: [
+        achievements: [
             "Returned to Brazil 🇧🇷",
-            "Sold 100% of Stärker app owning 💰",
-            "Bought 50% of a Child's Clothes E-commerce Company",
-            "Became Tech Leader of E-commerce",
-            "Learned Nodejs & React Frameworks",
-            "Starts Building a Full backend solution to the E-commerce Company (Hawk)",
+            "Sold 100% ownership of the Stärker app 💰",
+            "Bought 50% of a children's clothing E-commerce company",
+            "Became Tech Leader of the E-commerce company",
+            "Learned Node.js & React frameworks",
+            "Started building a full backend solution for the E-commerce company (Hawk)",
             "First Chrome Extension (RabbitArchiver)"
         ]
     },
-
     2017: {
         age: 25,
-        achivments: [
+        achievements: [
             "Shopping List app hits +100,000 downloads",
-            "Moved to Pitman, New Jersey USA 🇺🇸",
-            "Launch of MaterialAbout Android Library (+1.5k Stars)",
-            "Launch of GaussianBlur Android Library (+450 Stars)",
-            "Launch of PickImage Android Library (+430 Stars)",
-            "Launch of several small Android Libraries to help grown Android Community",
+            "Moved to Pitman, New Jersey, USA 🇺🇸",
+            "Launched MaterialAbout Android Library (+1.5k Stars)",
+            "Launched GaussianBlur Android Library (+450 Stars)",
+            "Launched PickImage Android Library (+430 Stars)",
+            "Released several small Android libraries to help grow the Android community",
         ]
     },
-
     2016: {
-        age: 24,
-        achivments: [
-            "First Bitcoin Investment (Not Much 😅)",
-            "First Neat sale of Stärker app",
+        achievements: [
+            "First Bitcoin investment (not much 😅)",
+            "First neat sale of Stärker app",
             "+25 clients using Stärker",
-            "Sold 50% of Stärker app owning",
-            "Participated on Vanhackathon 2.0 (Android Specialist)",
+            "Sold 50% ownership of Stärker app",
+            "Participated in Vanhackathon 2.0 (Android Specialist)",
             "+10 Android Development classes taught (Proway Blumenau)",
             "Became Android Tutor (Entra21 Blumenau)"
         ]
     },
-
     2015: {
         age: 23,
-        achivments: [
-            "Starts a Tech Company (Neat)",
-            "Shopping List app Hits 50,000 downloads",
-            "College Gradueted 🎓 (Information Systems at Uniasselvi)",
-            "Launch of Sales Force Android app. Beta version. (Stärker) 🚀",
-            "First Website (Stärker Sales page)",
-            "Learns About Bitcoin",
+        achievements: [
+            "Started a tech company (Neat)",
+            "Shopping List app hits 50,000 downloads",
+            "College graduate 🎓 (Information Systems at Uniasselvi)",
+            "Launched Sales Force Android app – Beta version (Stärker) 🚀",
+            "First website (Stärker sales page)",
+            "Learned about Bitcoin",
             "Became Android Teacher (Proway Blumenau)"
         ]
     },
 
     2014: {
-        age: 22,
-        achivments: [
+        achievements: [
             "Learned C++",
-            "Hired as Full-Time Android Developer",
-            "Launch first Android App (Shopping List)",
-            "Starts deploying many other small Android apps",
-            "Begin of Stärker app bussines plan",
-            "Learned HTML, CSS and JS bases",
+            "Hired as full-time Android Developer",
+            "Launched first Android app (Shopping List)",
+            "Started deploying many other small Android apps",
+            "Started the Stärker app business plan",
+            "Learned HTML, CSS, and JavaScript basics",
         ]
     },
-
     2013: {
         age: 21,
-        achivments: [
-            "Java Course",
-            "Android Course",
-            "Learns SQLite",
-            "First Personal Blog (Dev Life)"
+        achievements: [
+            "Java course",
+            "Android course",
+            "Learned SQLite",
+            "Created first personal blog (Dev Life)"
         ]
     },
-
     2012: {
         age: 20,
-        achivments: [
-            "Hired as Full-Time Developer (Delphi & Oracle)",
-            "Starts Learning Java",
-            "Created the my very first Delphi Library (File Searcher)",
+        achievements: [
+            "Hired as full-time Developer (Delphi & Oracle)",
+            "Started learning Java",
+            "Created my very first Delphi library (File Searcher)",
             "Created a Tic Tac Toe game (Delphi)",
             "First contact with C#"
         ]
     },
-
     2011: {
         age: 19,
-        achivments: [
-            "Changed College Course (Information Systems at Uniasselvi)",
-            "Moved to Software Deployment Consultant",
+        achievements: [
+            "Changed college course (Information Systems at Uniasselvi)",
+            "Moved to Software Deployment Consultant role",
             "First DB procedures and functions (Oracle) ⚙️",
         ]
     },
-
     2010: {
         age: 18,
-        achivments: [
-            "Starts College (Computer Cience at FURB)",
-            "First IT Job (Customer Support) ✅",
+        achievements: [
+            "Started college (Computer Science at FURB)",
+            "First IT job (Customer Support) ✅",
             "First database contact (Microsoft Access)",
-            "SQL Course (SQL Server)",
-            "First SQL Queries",
+            "SQL course (SQL Server)",
+            "First SQL queries",
         ]
     },
-
     2009: {
         age: 17,
-        achivments: [
-            "Win XP Course 💾",
-            "MS-DOS Course",
-            ".bat & .vbs files all over the Desktop"
+        achievements: [
+            "Windows XP course 💾",
+            "MS-DOS course",
+            ".bat & .vbs files all over the desktop"
         ]
     },
-
     2008: {
         age: 16,
-        achivments: [
-            "First code contact (.bat)",
-            "Begin of software fascination ♥️",
+        achievements: [
+            "First contact with code (.bat)",
+            "Beginning of software fascination ♥️",
         ]
     },
-
     2004: {
         age: 12,
-        achivments: [
+        achievements: [
             "🥇 Got my first PC",
-            "🎮 Begining of gaming addition (Carmageddon & Diablo II)",
+            "🎮 Beginning of gaming addiction (Carmageddon & Diablo II)",
         ]
     },
-
 }
 ```
 
+Senior Android Engineer | Mentor | Tech Interview Coach | Founder at Neat
 
+I'm a seasoned Android Mobile Engineer with over 12 years of experience crafting high-quality, scalable apps across industries including e-commerce, fintech, marketplaces, and entertainment. My expertise spans from Jetpack Compose and Kotlin Coroutines to clean architecture and modern Android best practices.
 
-<!--
-**jrvansuita/jrvansuita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Since 2022, I've been teaching and mentoring Android developers, helping them grow from beginner to industry-ready. In 2024, I took on a formal mentorship role in selective training programs that prepare students for technical interviews and software engineering roles in the US market — with a strong focus on algorithms, system design, and advanced Android topics.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also the founder of Neat, a remote-first mobile consultancy I've reactivated to deliver top-notch Android solutions. I work closely with clients and mentees alike, combining technical depth with a passion for education, community, and career growth.
