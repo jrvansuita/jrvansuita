@@ -12,8 +12,8 @@
 <a href="https://www.instagram.com/jnrvans" target="_blank">
   <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/instagram.png?raw=true" alt="Instagram" width="44" height="44" hspace="10">
 </a>
-<a href="https://twitter.com/JuniorVansuita" target="_blank">
-  <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/twitter.png?raw=true" alt="Twitter" width="44" height="44" hspace="10">
+<a href="https://x.com/jnrvans" target="_blank">
+  <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/x.png?raw=true" alt="X.com" width="44" height="44" hspace="10">
 </a>
 <a href="https://play.google.com/store/apps/dev?id=8002078663318221363" target="_blank">
   <img width="30" height="30" src="https://github.com/jrvansuita/jrvansuita/blob/main/icons/google-play.png?raw=true" alt="Google Play Store" width="44" height="44" hspace="10">
